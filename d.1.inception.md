@@ -11,9 +11,11 @@ Group 4: OnDemand Car**
    
    **Initial Consumer Segment Guess:** The initial guess for the consumer segment of OnDemand Car is individuals in the age range of 24-50 who may be out of town frequently, leaving their car unused for periods of time. This would include the demographic of any individual that owns a vehicle, any individual who might need to make passive income to pay off car payments or any other bills, any individual who has multiple vehicles that don't get used as frequently, and/or any individual who needs to rent a vehicle in the area while visiting a local town. 
         
-      
         
         
+**4. Final Value Proposition and Consumer Segments**      
         
-    
+  **Final Value Proposition:** OnDemand Car is a community-based car rental service for peer-to-peer convenience.     
+        
+  **Final Consumer Segment:** The consumer segment of OnDemand Car is mainly individuals who are out of town frequently or who often leave their car unused for other various reasons. The demographic of this would include individuals in the age range of 24-50 who might need to make passive income to pay off bills. As far as who would be renting out cars from OnDemand Car, there would be three main groups. The first being college students who don't own a car but need to run errands or get around to places outside of walking distance. The second main group of users would be individuals on vacation or business trips who would enjoy a more private and conveinent mode of transportation. Finally, this rental service would allow individuals to cheaply have access to vehicles specific to their needs such as renting a pickup truck for a project.
     
