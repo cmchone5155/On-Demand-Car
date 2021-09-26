@@ -65,5 +65,6 @@ Our MVP will be a simple website that allows users to submit a vehicle to rent, 
 * As a renter, I want access to rentee’s information so that I can communicate with the person driving my car. 
 
 ## 8) Issue Tracker
-https://trello.com/b/IqCQVLtp/issue-tracker
+![image](https://user-images.githubusercontent.com/79882639/134828263-adb79a76-e455-4695-a7c2-61a3964826cc.png)
+
 
