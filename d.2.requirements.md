@@ -60,6 +60,9 @@ Our MVP will be a simple website that allows users to submit a vehicle to rent, 
 # 6) Use Cases
 ![D2_Use_Case_Diagram drawio](https://user-images.githubusercontent.com/79882639/134831745-61bbc947-ce49-48bb-a470-9f424b9b1643.png)
 
+*Word document of the use case descriptions*
+[D.2_Use_Case_Descriptions.docx](https://github.com/cmchone5155/On-Demand-Car/files/7233205/D.2_Use_Case_Descriptions.docx)
+
 # 7) User Stories
 * As a rentee, I want to see the condition of the car so that I don’t have to drive a gross car
 * As a rentee, I want the car to be clean when picked up
