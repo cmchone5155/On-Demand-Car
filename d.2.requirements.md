@@ -15,7 +15,6 @@ People looking for vehicles to perform tasks their own vehicle can not do.
 People traveling looking for a vehicle they can drive.
 People with an extra or vacant car to make extra money.
 
-
 # 2) Stakeholders
 ##### Users: 
 Renters who own a car, rentee’s who are in need of a car
@@ -55,13 +54,11 @@ That the site is accessible at any time during the day and users can rent from a
 ##### Usability:
 9 of 10 users can rent / rent out a car without any assistance from developers
 
-
 # 5) MVP:
 Our MVP will be a simple website that allows users to submit a vehicle to rent, its area of service and basic car information. It will also display a list of all cars available to rent currently. Once a user enters a vehicle's information it will then be converted into a data type compatible with our database(either a list or a dictionary entry),  which can be pulled again to display on the website. As far as the website, we will just need some simple html and css to form buttons and areas where users can submit data. As well as some javascript to pull and push data to the server. This will not be secure and not protect us from SQL injection attacks but it will provide the basic essentials to show to a user.
 
 # 6) Use Cases
 ![D2_Use_Case_Diagram drawio](https://user-images.githubusercontent.com/79882639/134831745-61bbc947-ce49-48bb-a470-9f424b9b1643.png)
-
 
 # 7) User Stories
 * As a rentee, I want to see the condition of the car so that I don’t have to drive a gross car
