@@ -58,7 +58,8 @@ That the site is accessible at any time during the day and users can rent from a
 Our MVP will be a simple website that allows users to submit a vehicle to rent, its area of service and basic car information. It will also display a list of all cars available to rent currently. Once a user enters a vehicle's information it will then be converted into a data type compatible with our database(either a list or a dictionary entry),  which can be pulled again to display on the website. As far as the website, we will just need some simple html and css to form buttons and areas where users can submit data. As well as some javascript to pull and push data to the server. This will not be secure and not protect us from SQL injection attacks but it will provide the basic essentials to show to a user.
 
 # 6) Use Cases
-![D2_Use_Case_Diagram drawio](https://user-images.githubusercontent.com/79882639/134831745-61bbc947-ce49-48bb-a470-9f424b9b1643.png)
+
+![Screen Shot 2021-09-26 at 8 42 18 PM](https://user-images.githubusercontent.com/89813101/134842382-86a1bb19-76d9-4631-87f8-5ebd6441964f.png)
 
 *Word document of the use case descriptions*
 [D.2_Use_Case_Descriptions.docx](https://github.com/cmchone5155/On-Demand-Car/files/7233205/D.2_Use_Case_Descriptions.docx)
