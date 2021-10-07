@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-07T02:47:30.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="SzyksjZpQPgDfq0YzxcX" version="15.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-07T02:48:22.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="Ixt8wcAl0WDYrJqM-O9c" version="15.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1402" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1833" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -136,7 +136,7 @@
           <mxGeometry y="104" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KglRBJ-Gxd6hczOTTS1u-28" value="Rating System" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="80" y="360" width="150" height="78" as="geometry" />
+          <mxGeometry x="80" y="380" width="150" height="78" as="geometry" />
         </mxCell>
         <mxCell id="KglRBJ-Gxd6hczOTTS1u-29" value="Rating (stars)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="KglRBJ-Gxd6hczOTTS1u-28" vertex="1">
           <mxGeometry y="26" width="150" height="26" as="geometry" />
@@ -258,6 +258,9 @@
         </mxCell>
         <mxCell id="mKBYpSc3bikpSqal6gfK-32" value="*&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="50" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lLHAhrAMjx3pdL5zc5mC-0" value="*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="71" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
