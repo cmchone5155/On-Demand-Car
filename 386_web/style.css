@@ -1,0 +1,44 @@
+html {
+  width: 100%;
+  height: 100vh;
+  background: rgb(0, 0, 0, 0.1);
+  font-size: 1.0em;
+}
+body {
+  margin: 0;
+  height: 100%;
+  background-color: white;
+}
+div.container {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-rows: 1fr 3fr 1fr;
+  grid-template-areas:
+    "head head head"
+    "panleft mainbody panright"
+    "foot foot foot";
+}
+div.header {
+  background-color: grey;
+  grid-area: head;
+  text-align: center;
+  font-size: 3em;
+}
+div.footer {
+  background-color: white;
+  grid-area: foot;
+}
+div.panel {
+  background-color: white;
+}
+div.panel.left {
+  grid-area: panleft;
+}
+div.panel.right {
+  grid-area: panright;
+}
+div.mainbody {
+  grid-area: mainbody;
+}
