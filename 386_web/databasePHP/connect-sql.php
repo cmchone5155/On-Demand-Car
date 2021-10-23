@@ -1,4 +1,6 @@
 <?php
+
+//create credentials Once we have a server input credentials here
 $servername = "localhost";
 $username = "root";
 $password = "";
@@ -19,11 +21,15 @@ $Year = filter_input(INPUT_POST, 'year');
 $Mileage = filter_input(INPUT_POST, 'mileage');
 $Color = filter_input(INPUT_POST, 'color');
 $sql = "INSERT INTO carinfo (Make, Model, Year, Mileage, Color) VALUES ('$Make','$Model','$Year','$Mileage','$Color')";
+
+//Verify Connection
 if( $dbcon -> query($sql)){
   echo "New vehicle is inserted successfully";
 }
 else{
   echo "Error: ".$sql ."<br>". $dbcon->error;
 }
+
+//close connection
 $dbcon->close();
 ?>
