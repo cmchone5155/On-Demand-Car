@@ -88,12 +88,12 @@ Project Link: [https://github.com/cmchone5155/On-Demand-Car](https://github.com/
 
 
 Contact our team directly!
-* [Sami Tanquary](@Sami-Tanquary)
-* [Scott Austin](@vlexum)
-* [Wesley Blair](@wvblair5)
-* [Austin Malmin](@whatup9911)
-* [Curtis McHone](@cmchone5155)
-* [Hunter Woodruff](@hcw52)
+* [Sami Tanquary](https://github.com/Sami-Tanquary)
+* [Scott Austin](https://github.com/vlexum)
+* [Wesley Blair](https://github.com/wvblair5)
+* [Austin Malmin](https://github.com/whatup9911)
+* [Curtis McHone](https://github.com/cmchone5155)
+* [Hunter Woodruff](https://github.com/hcw52)
 
 <!-- CODE OF CONDUCT -->
 ## Code of Conduct
