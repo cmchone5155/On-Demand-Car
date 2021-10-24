@@ -10,7 +10,7 @@
 * [Scott Austin]  
 * [Wesley Blair]
 * [Austin Malmin]
-* [Curtis McHone]
+* [Curtis McHone](@cmchone5155)
 * [Hunter Woodruff]
 * <admin@onDemandCar.org>
 
