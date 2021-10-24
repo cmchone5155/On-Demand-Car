@@ -8,7 +8,7 @@
 # For further assistance or contact with our team
 * [Sami Tanquary](@Sami-Tanquary)
 * [Scott Austin]  
-* [Wesley Blair]
+* [Wesley Blair](@wvblair5)
 * [Austin Malmin]
 * [Curtis McHone](@cmchone5155)
 * [Hunter Woodruff]
