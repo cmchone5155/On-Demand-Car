@@ -9,9 +9,9 @@
 * [Sami Tanquary](@Sami-Tanquary)
 * [Scott Austin]  
 * [Wesley Blair](@wvblair5)
-* [Austin Malmin]
+* [Austin Malmin](@whatup9911)
 * [Curtis McHone](@cmchone5155)
-* [Hunter Woodruff]
+* [Hunter Woodruff](@hcw52)
 * <admin@onDemandCar.org>
 
 
