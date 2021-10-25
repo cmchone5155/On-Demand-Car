@@ -93,7 +93,7 @@ Contact our team directly!
 
 <!-- CODE OF CONDUCT -->
 ## Code of Conduct
-[Code of Conduct](docs/CODE-OF-CONDUCT.md)
+[Code of Conduct](docs/CODE_OF_CONDUCT.md)
 
 
 <!-- ACKNOWLEDGMENTS -->
