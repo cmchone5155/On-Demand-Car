@@ -67,7 +67,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- CONTRIBUTING -->
 ## Contribution Guidelines
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](CONTRIBUTING.md)
 
 
 
@@ -93,7 +93,7 @@ Contact our team directly!
 
 <!-- CODE OF CONDUCT -->
 ## Code of Conduct
-[Code of Conduct](docs/CODE_OF_CONDUCT.md)
+[Code of Conduct](CODE_OF_CONDUCT.md)
 
 
 <!-- ACKNOWLEDGMENTS -->
