@@ -36,7 +36,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#contribution-guidelines">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -57,11 +56,6 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 *We are currently still in our alpha pre-release phase and have only been running the server locally until future releases.*
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-_For more examples, please refer to the [Documentation](https://example.com)_
 
 
 
