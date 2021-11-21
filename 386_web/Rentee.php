@@ -9,7 +9,7 @@
 		<div class="header">
 	       		OnDemandCar
             	</div>
-            	<div class="panel left">
+            	<div class="navbar">
 	        <p><a href="<!--URL_here-->">Homepage</a></p>
 		<p><a href="!--URL_here-->/386_web/Renter/">Rent a vehicle</a></p>
 		<p><a href="!--URL_here-->/386_web/Rentee/">Rent out your car!</a><p>
